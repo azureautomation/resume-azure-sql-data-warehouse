@@ -1,0 +1,20 @@
+{
+    "Author": "Allan.Miller",
+    "ContentSize": 2948,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/resume-azure-sql-data-warehouse/master/ResumeAzureSQLDataWarehouse.ps1",
+    "DownloadCount": 1479,
+    "Id": "Resume-Azure-SQL-Data-98acc304",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 166,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-11-3T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Resume Azure SQL Data WarehouseThis is a simple runbook that will allow you to resume a Azure SQL Data Warehouse.Resuming as part of a ETL/ELT Data WorkflowWe commonly get asked if there is some way that an Azure SQL Data Warehouse can be resumed on a schedule. Using this, you ca",
+    "Title": "Resume Azure SQL Data Warehouse",
+    "UpdatedDate": "2017-11-3T00:00:00",
+    "Url": "https://github.com/azureautomation/resume-azure-sql-data-warehouse",
+    "UserTags": "Azure Automation, Azure SQL Data Warehouse"
+}
